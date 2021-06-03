@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/BurntSushi/toml v0.3.1
-	github.com/MichaelMure/go-term-markdown v0.1.3
+	github.com/MichaelMure/go-term-markdown v0.1.4
 	github.com/Microsoft/hcsshim v0.8.7 // indirect
 	github.com/alexeyco/simpletable v0.0.0-20200730140406-5bb24159ccfb
 	github.com/containerd/containerd v1.4.2 // indirect
@@ -21,7 +21,6 @@ require (
 	github.com/gogo/protobuf v1.3.1 // indirect
 	github.com/google/uuid v1.1.2
 	github.com/gookit/color v1.3.2
-	github.com/jochasinga/requests v0.0.0-20160909035013-af9bbdb4ab2c // indirect
 	github.com/levigross/grequests v0.0.0-20190908174114-253788527a1a
 	github.com/mattn/go-sqlite3 v1.14.7
 	github.com/moby/sys/mount v0.2.0 // indirect
