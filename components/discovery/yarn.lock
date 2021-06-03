@@ -1479,10 +1479,10 @@
     lodash "4.17.20"
     path-to-regexp "3.2.0"
 
-"@nestjs/terminus@^7.0.1":
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/terminus/-/terminus-7.0.1.tgz#7d748f8c18973d60023a8ab16760d0adab145b8b"
-  integrity sha512-OKg1QQDb+whHJM3Xt+3RRUPiyZSyD0qLacfldK0TXcFpKyexA0yyY3GKeaBNApf01FEzJgkK3ARCUoELnAfXDA==
+"@nestjs/terminus@^7.2.0":
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/terminus/-/terminus-7.2.0.tgz#73b08aa329b8f36a0c3a1bc26f730b1cb14b9a8d"
+  integrity sha512-aQuqpT9MkI/HUUXzFgMyN7HnKishNGCd/QOQ4s8vjz8WOfjkZrrX0yoJGVhHmLca5IXa6HnhsHC1PiVTdXlw8g==
   dependencies:
     check-disk-space "2.1.0"
     deprecate "^1.1.1"
@@ -9674,7 +9674,6 @@ y18n@^4.0.0:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.3.tgz#b5f259c82cd6e336921efd7bfd8bf560de9eeedf"
   integrity sha512-JKhqTOwSrqNA1NY5lSztJ1GrBiUodLMmIZuLiDaMRJ+itFd+ABVE8XBjOvIWL+rSqNDC74LCSFmlb/U4UZ4hJQ==
-
 
 yallist@^3.0.0, yallist@^3.0.2, yallist@^3.0.3:
   version "3.1.1"
