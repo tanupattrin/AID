@@ -3,7 +3,7 @@ module github.com/autoai-org/aid
 go 1.15
 
 require (
-	github.com/BurntSushi/toml v0.3.1
+	github.com/BurntSushi/toml v1.2.1
 	github.com/MichaelMure/go-term-markdown v0.1.3
 	github.com/Microsoft/hcsshim v0.8.7 // indirect
 	github.com/alexeyco/simpletable v0.0.0-20200730140406-5bb24159ccfb
@@ -21,7 +21,6 @@ require (
 	github.com/gogo/protobuf v1.3.1 // indirect
 	github.com/google/uuid v1.1.2
 	github.com/gookit/color v1.3.2
-	github.com/jochasinga/requests v0.0.0-20160909035013-af9bbdb4ab2c // indirect
 	github.com/levigross/grequests v0.0.0-20190908174114-253788527a1a
 	github.com/mattn/go-sqlite3 v1.14.7
 	github.com/moby/sys/mount v0.2.0 // indirect
@@ -36,7 +35,7 @@ require (
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.8.1
 	github.com/sosedoff/gitkit v0.2.1-0.20201122214739-7ce080db3c4e
-	github.com/urfave/cli/v2 v2.3.0
+	github.com/urfave/cli/v2 v2.23.5
 	google.golang.org/genproto v0.0.0-20191206224255-0243a4be9c8f // indirect
 	google.golang.org/grpc v1.27.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
